@@ -4,14 +4,17 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/* HEADER */
 header{
     background-color: #4ea0ff;
     background-image: url('/img/pattern.png');
     background-size: 20%;
 
 }
-#logo{
+header img{
     width: 20%;
     height: 40%;
+    margin-top: 25px;
 }
+/* /HEADER */
+/* MAIN */
